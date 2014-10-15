@@ -46,7 +46,7 @@ struct node {
 } o[maxn];
 int on;
 
-char s[1111][1111];
+char s[1111][2222];
 int c[1111];
 int n;
 
