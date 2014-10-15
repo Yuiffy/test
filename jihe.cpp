@@ -9,6 +9,7 @@
 #include<set>
 #include<stack>
 #include<queue>
+#include<vector>
 using namespace std;
 #define ll long long
 #define usll unsigned ll
