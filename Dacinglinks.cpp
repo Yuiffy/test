@@ -5,6 +5,7 @@
 #include<vector>
 #include<algorithm>
 #include<cstring>
+#include<stack>
 #define RE freopen("in.txt","r",stdin);
 const int MAXN=33;
 const int MAXC=MAXN;
