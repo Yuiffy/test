@@ -1,6 +1,7 @@
 //ISAP+当前弧+GAP，邻接表，起点为st终点为ed，先输入m再输入n
 #include<cstdio>
 #include<cstring>
+#include<iostream>
 using namespace std;
 typedef int lll;
 const int maxn=222;//点数
