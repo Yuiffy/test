@@ -37,8 +37,8 @@ int gcd(int x,int y){
 
 int n,K;
 
-int b[11111],bn;
-int ans[11111][4];
+int b[22222],bn;
+int ans[22222][4];
 
 bool ok(int i,int j,int t){
     int k;

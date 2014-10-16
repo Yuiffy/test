@@ -185,7 +185,11 @@ inline pt getreflect(pt o,pt a,pt b)
     return ret;
 }
 
-inline pt chuizhi(pt o,pt a,pt b){
+/**
+    输入点o a b，输出点c
+    使得oc垂直ab
+**/
+inline pt chuizhi(const pt &o,const pt &a,const pt &b){
     pt tmp=a-b;
     pt re=o;
     re.x-=tmp.y;

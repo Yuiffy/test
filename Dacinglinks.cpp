@@ -6,7 +6,7 @@
 #include<algorithm>
 #include<cstring>
 #define RE freopen("in.txt","r",stdin);
-const int MAXN=33;
+const int MAXN=44;
 const int MAXC=MAXN;
 const int MAXR=MAXN;
 const int MAXM=MAXC*MAXR;

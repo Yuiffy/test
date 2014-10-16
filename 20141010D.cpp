@@ -29,7 +29,7 @@ using namespace std;
 #define ppf pop_front
 #define ppb pop_back
 const double pi=acos(-1.0);
-const double eps=1e-10;
+const double eps=1e-12;
 
 int k,n;
 int a[11];
