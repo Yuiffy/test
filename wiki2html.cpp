@@ -21,7 +21,7 @@ using namespace std;
 #define pb push_back
 #define ll long long
 #define mod 1000000009
-#define eps 1e-9
+#define eps 1e-8
 
 const int maxn=11111;
 const int maxm=11111;
